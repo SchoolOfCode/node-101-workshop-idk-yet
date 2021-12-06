@@ -1,0 +1,22 @@
+{
+    "name": "101-workshop-idk-yet",
+    "version": "1.0.0",
+    "description": "ok lol",
+    "main": "index.js",
+    "scripts": {
+        "test": "yes"
+    },
+    "repository": {
+        "type": "module",
+        "url": "git+https://EzyhB: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@github.com/SchoolOfCode/node-101-workshop-idk-yet.git"
+    },
+    "author": "me",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/SchoolOfCode/node-101-workshop-idk-yet/issues"
+    },
+    "homepage": "https://github.com/SchoolOfCode/node-101-workshop-idk-yet#readme",
+    "dependencies": {
+        "chalk": "^5.0.0"
+    }
+}
